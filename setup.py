@@ -34,7 +34,7 @@ setup(
     description=DESCRIPTION,
     long_description=about["long_description"],
     long_description_content_type="text/markdown",
-    AUTHOR=AUTHOR,
+    author=AUTHOR,
     url=URL,
     keywords=["Binance", "Public API"],
     install_requires=[req for req in requirements],
